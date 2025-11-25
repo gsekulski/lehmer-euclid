@@ -1,5 +1,5 @@
 /*
- * utils.c -- 
+ * utils.c
  *
  * Copyright (C) 2025 Gratian Sekulski <gratian+github@mail.sekulski.org>
  *

@@ -1,5 +1,5 @@
 /*
- * lehmer_euclid.c -- 
+ * lehmer_euclid.c -- The main entry point.
  *
  * Copyright (C) 2025 Gratian Sekulski <gratian+github@mail.sekulski.org>
  *

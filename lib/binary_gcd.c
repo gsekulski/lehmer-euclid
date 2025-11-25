@@ -1,5 +1,5 @@
 /*
- * binary_gcd.c -- 
+ * binary_gcd.c
  *
  * Copyright (C) 2025 Gratian Sekulski <gratian+github@mail.sekulski.org>
  *
@@ -19,7 +19,7 @@
  * SPDX-License-Identifier: AGPL-3.0-or-later
  */
 
-#include "lehmer_euclid.h"
+#include "lehmer-euclid.h"
 #include <limits.h>
 
 /*
