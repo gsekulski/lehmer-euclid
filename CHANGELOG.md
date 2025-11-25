@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Support for both small (≤ 32 bits) and large (> 32 bits) ints
 
 ### To Do
-- README with usage & through explaination
+- README with usage & thorough explanation
 - Test suite with randomized test cases
 - Integrate Meson
 - Full documentation

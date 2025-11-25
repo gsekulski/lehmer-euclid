@@ -4,3 +4,11 @@
 *.un~
 *.out
 *.o
+*.a
+*.so
+*.dylib
+build/
+dist/
+.vscode/
+.idea/
+.DS_Store
